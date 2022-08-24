@@ -1,0 +1,10 @@
+,0
+cost,80.42978233333335
+viol_main,0.0
+viol_window,0.22045499999999998
+reclaimed tonnage,401416.541295337
+available tonnage,400000.0
+parcel_list,"[(penalty_avg=0, penalty_window=0.006379), (penalty_avg=0, penalty_window=0), (penalty_avg=0, penalty_window=0), (penalty_avg=0, penalty_window=0.214076)]"
+seed,775812
+time,2591.94948477298
+count_local,0
